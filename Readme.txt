@@ -66,7 +66,7 @@ The DQN agent demonstrates:
 
 Project Structure
 
-- *RL_Final_Presentation.ipynb*: Main notebook with implementation and visualization
+- RLFinal-Group1.ipynb: Main notebook with implementation and visualization
 - *requirements.txt*: Required packages for running the code
 - *models/*: Saved model checkpoints
 - *gifs/*: Generated visualizations of trained agents
